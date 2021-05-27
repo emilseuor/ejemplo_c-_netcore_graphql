@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphqlAPI_Hotchocolate", "GraphqlAPI_Hotchocolate\GraphqlAPI_Hotchocolate.csproj", "{6883E1E7-C413-412C-BF91-A5D40A87F784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6883E1E7-C413-412C-BF91-A5D40A87F784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6883E1E7-C413-412C-BF91-A5D40A87F784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6883E1E7-C413-412C-BF91-A5D40A87F784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6883E1E7-C413-412C-BF91-A5D40A87F784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD99957-FCE6-4DCA-80DE-06C0C3D0F75D}
+	EndGlobalSection
+EndGlobal
